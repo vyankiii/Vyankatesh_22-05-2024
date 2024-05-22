@@ -1,0 +1,14 @@
+Polymorphism: one entity in many forms or one functionality acts differently in different 
+              classes/same class.
+
+in java programming polymorphism again divided into two types,
+
+1. static/compile time polymorphism: to implement this polymorphism we uses 'overloading' concept
+
+=> we use 'constructor overloading and method overloading' to implement/achieve 
+   static/compile time polymorphism
+
+2. dynamic/runtime polymorphism: to implement this polymorphism we uses 'overriding' concept
+
+=> we use 'method overriding' to implement/achieve 
+   dynamic/runtime polymorphism.
